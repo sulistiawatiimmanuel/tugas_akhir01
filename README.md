@@ -35,12 +35,12 @@ Alur penyelesaian tugas akhir untuk Program Studi Ilmu Kelautan Universitas Mula
 
 ### Checlist Kesiapan Seminar Proposal
 
-Naska Proposal Penelitian (untuk 2 dosen pembimbing dan 2 penguji)
-PowerPoint untuk Presentasi Proposal Penelitian
-Surat Kesedian Menguji (untuk 2 dosen pembimbing dan 2 penguji)
-Berita Acara Seminar Proposal. 
-Lembar Penilaian Seminar Proposal (untuk 2 dosen dan 2 penguji)
-Cari untuk audiens untuk Seminar Proposal
+1. Naska Proposal Penelitian (untuk 2 dosen pembimbing dan 2 penguji)
+2. PowerPoint untuk Presentasi Proposal Penelitian
+3. Surat Kesedian Menguji (untuk 2 dosen pembimbing dan 2 penguji)
+4. Berita Acara Seminar Proposal. 
+5. Lembar Penilaian Seminar Proposal (untuk 2 dosen dan 2 penguji)
+6. Cari untuk audiens untuk Seminar Proposal
 
 
 ## Seminar Hasil
@@ -61,7 +61,6 @@ Cari untuk audiens untuk Seminar Proposal
 14. Berikan surat kesedian kepada setiap dosen pembimbing dan dosen penguji dan minta tanda tangannya. GUnakan map untuk memberikan surat kesediaan ini.
 15. Print Skripsi berserta lampiran-lampirannya sebanyak 4 lembar (2 lembar dosen pembimbing dan 2 lembar untuk penguji).
 16. Minta dokumen yang berkaitan dengan seminar hasil kepada mba Rani (seperti berita acara, lembar penelitian, dll).
-17. Pesan catering untuk setiap dosen pembimbing dan penguji (terdiri atas makanan ringan dan makanan berat).
 18. Gladi bersih seminar hasil.
 19. Pada hari-H seminar hasil, berikan barita acara dan penilaian kepada setiap dosen pembimbing dan penguji. Gunakan map untuk memberikan dokumen-dokumen ini
 20. Seminar hasil
